@@ -1,40 +1,24 @@
 {
-<<<<<<< HEAD
   "homepage":"https://mirror.medevia.fr",
-=======
->>>>>>> b682124d1f2437bc2837856cb1bf357d3a3c287f
   "name": "mirror",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "date-fns": "^1.29.0",
     "jquery": "^3.3.1",
     "react": "^16.5.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.0",
-    "react-loadable": "^5.5.0",
     "react-scripts": "1.1.5",
-    "react-universal-component": "^3.0.2",
-    "rss-parser": "^3.5.2"
-=======
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
->>>>>>> b682124d1f2437bc2837856cb1bf357d3a3c287f
+    "react-universal-component": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-<<<<<<< HEAD
   },
   "devDependencies": {
     "babel-cli": "^6.26.0"
   }
 }
-=======
-  }
-}
->>>>>>> b682124d1f2437bc2837856cb1bf357d3a3c287f
