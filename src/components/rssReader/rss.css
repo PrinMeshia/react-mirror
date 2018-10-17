@@ -1,0 +1,11 @@
+.app_rssreader .rss-date{
+    text-transform: capitalize;
+}
+@media only screen and (max-width: 768px) {
+    .app_rssreader .rss-info,.app_rssreader .rss-date,.app_rssreader .rss-content{
+        font-size: 0.7em
+    }
+    .rss-title{
+        font-size: 0.9em
+    }
+}

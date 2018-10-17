@@ -1,0 +1,11 @@
+.app_clock{
+    flex-direction: column; 
+}
+.app_clock .app_clock_date{
+    font-size: 1em;
+    font-weight: 300;  
+}
+.app_clock .app_clock_time{
+    font-size: 1.5em;
+    font-weight: 600;
+}

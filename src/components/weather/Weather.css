@@ -1,0 +1,22 @@
+.app_weather{
+    flex-direction: column; 
+    text-align: right;
+}
+.app_weather .app_weather_code{
+    font-size: 1em;
+    font-weight: 300; 
+}
+.app_weather .app_weather_location{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.app_weather .app_weather_default{
+    font-size: 0.5em;
+    font-weight: 300;
+}
+
+@media only screen and (max-width: 768px) {
+    .app_weather{
+        text-align: center;
+    }
+}
